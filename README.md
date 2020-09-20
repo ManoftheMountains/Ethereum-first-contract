@@ -1,11 +1,11 @@
 # Ethereum First Contract
 
 <b>Desc:</b>
-/n
+\n
 First project with Ethereum contract development.
-/n
+\n
 <b>Notes:</b>
-/n
+\n
 1: deploy.js HDWalletProvider mnemonic string is blank.
 2. deploy.js Infura API url is blank.
 3: Requirments are node.js, truffle-hdwallet-provider, infura API.
