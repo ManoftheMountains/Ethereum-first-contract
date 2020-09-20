@@ -2,7 +2,7 @@
 
 <b>Desc:</b>
 
-First project with Ethereum contract development, code cleanup required.
+First project with Ethereum contract development, code clean-up required.
 
 <b>Notes:</b>
 
