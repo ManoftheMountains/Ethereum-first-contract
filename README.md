@@ -18,7 +18,7 @@ First project with Ethereum contract development, code clean-up required.
 
 6. Provider setup (Web3 enabled)
 
-7: Dependencies
+7. Dependencies
 
     "ganache-cli": "^6.10.2",
     "mocha": "^8.1.3",
