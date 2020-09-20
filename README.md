@@ -13,3 +13,5 @@ First project with Ethereum contract development.
 3. Requirments are node.js, truffle-hdwallet-provider, infura API.
 
 4. Setup for Rinkeby network, but can be swapped.
+
+5. pragma solidity version ^0.4.17
