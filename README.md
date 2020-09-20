@@ -17,3 +17,5 @@ First project with Ethereum contract development.
 5. pragma solidity version ^0.4.17.
 
 6. Truffle-HDWallet setup.
+
+7. Provider setup (Web3 enabled)
