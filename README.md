@@ -16,6 +16,12 @@ First project with Ethereum contract development, code clean-up required.
 
 5. pragma solidity version ^0.4.17.
 
-6. Truffle-HDWallet setup.
+6. Provider setup (Web3 enabled)
 
-7. Provider setup (Web3 enabled)
+7: Dependencies
+
+    "ganache-cli": "^6.10.2",
+    "mocha": "^8.1.3",
+    "solc": "^0.4.17",
+    "truffle-hdwallet-provider": "0.0.3",
+    "web3": "^1.0.0-beta.26"
